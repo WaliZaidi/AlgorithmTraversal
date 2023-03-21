@@ -1,0 +1,6 @@
+-- 
+Execution time for function is : 1430879901 nanoseconds 
+-- 
+Execution time for function is : 1520657900 nanoseconds 
+-- 
+Execution time for function is : 1762268300 nanoseconds 

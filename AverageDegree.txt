@@ -1,0 +1,1 @@
+The average degree of the graph is : 11.0
